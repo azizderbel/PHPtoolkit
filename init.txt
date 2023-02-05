@@ -1,0 +1,7 @@
+Open source programing langage,
+interpreted
+Imperative, Object oriented
+dynamically typed
+server side
+
+initially used to produce dynamic web page through an http server
